@@ -4,7 +4,7 @@
 
 CarScan is a project which focus on segemnetation of object (basically car) in a real-time scenerio. This project uses Semantic Segmentation with help of PixelLib module. 
 
-This project uses the pretrained model which can be downloaded [here] (https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.1/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5).
+This project uses the pretrained model which can be downloaded [here](https://github.com/ayoolaolafenwa/PixelLib/releases/download/1.1/deeplabv3_xception_tf_dim_ordering_tf_kernels.h5)
 
 # Packages Used
 1. OpenCV
