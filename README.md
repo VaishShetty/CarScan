@@ -15,6 +15,6 @@ This project uses the pretrained model which can be downloaded [here](https://gi
 
 # Referenece 
 
-1. Image Segmentation With 5 Lines 0f Code (https://towardsdatascience.com/image-segmentation-with-six-lines-0f-code-acb870a462e8 )
-2. Interactive Foreground Extraction using GrabCut Algorithm (https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_grabcut/py_grabcut.html#grabcut)
-3. PixelLib (https://github.com/ayoolaolafenwa/PixelLib)
+1. [Image Segmentation With 5 Lines 0f Code](https://towardsdatascience.com/image-segmentation-with-six-lines-0f-code-acb870a462e8 )
+2. [Interactive Foreground Extraction using GrabCut Algorithm](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_grabcut/py_grabcut.html#grabcut)
+3. [PixelLib](https://github.com/ayoolaolafenwa/PixelLib)
