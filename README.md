@@ -1,4 +1,4 @@
-# CarScan
+# Object Segmentation using PixelLib
 
 ![image](https://user-images.githubusercontent.com/81238186/115953272-0e1c7700-a508-11eb-918f-af8e53fb2f2f.png)
 
