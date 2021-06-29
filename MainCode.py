@@ -13,6 +13,13 @@ import os
 
 ## Load images from the folder/direcotry 
 def load_images_from_folder(folder):
+    '''
+    Description : Loads the images from the given directory 
+    
+    Input argument(s) : folder - Input directory path to input images. Type - str 
+    
+    Returns : images - List of image 
+    '''
     images = []
     for filename in os.listdir(folder):
         img = cv2.imread(os.path.join(folder,filename))
